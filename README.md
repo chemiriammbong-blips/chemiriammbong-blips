@@ -1,4 +1,4 @@
-## Hi, I'm Mirian
+## Hi, I'm Miriam 
 
 I am a Data Analyst specializing in Business & Marketing Analytics, with a strong focus on transforming raw data into actionable insights that drive strategic decisions. I work with SQL, R, Excel, and SPSS to collect, clean, analyze, and visualize data across business and marketing domains.
 
